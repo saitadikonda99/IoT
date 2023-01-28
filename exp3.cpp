@@ -7,6 +7,7 @@ void setup()
   pinMode(ldrPin, INPUT);
 }
 
+
 void loop()
 {
   int ldrStatus = analogRead(ldrPin);
