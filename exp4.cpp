@@ -23,7 +23,7 @@ void loop() {
         digitalWrite( greenled, LOW );
         }
         else {
-        digitalWrite( greenled, LOW );
+        digitalWrite( greenled, HIGH );
         noTone( buz );
         digitalWrite( redled, LOW );
         }
