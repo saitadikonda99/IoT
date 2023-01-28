@@ -4,7 +4,6 @@ int buz =4;
 int Sensor = A0;
 
 void setup() {
-
         pinMode( redled, OUTPUT );
         pinMode( greenled, OUTPUT );
         pinMode( buz, OUTPUT );
