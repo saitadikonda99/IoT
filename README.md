@@ -1,7 +1,7 @@
 
 # IoT
 
-- Tap on the links redirects into Thinkercad
+- Thinkercad Links
 
 - [Traffic 
 Light](https://www.tinkercad.com/things/lQL3QABvq5C-amazing-tumelo-inari/editel?sharecode=dl5FwexEvxvDSESmrRW4Q3MdvZB_ZLekqD0V1Z4d0M4)
