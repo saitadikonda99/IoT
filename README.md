@@ -19,3 +19,5 @@ Light](https://www.tinkercad.com/things/lQL3QABvq5C-amazing-tumelo-inari/editel?
 https://www.tinkercad.com/things/0SWe1wmsMGf-exquisite-fyyran/editel?sharecode=93xHjN6rxTKq0Zevbe6Z2TRu0wKd_eQydzgzE3HBhPw ) 
 
 - [EXP 5 ](https://www.tinkercad.com/things/eBYuRmKIRN4-brave-habbi-tumelo/editel?sharecode=Wm1uEOxKc4q_9DzhQGEQap1X9giXR8x3ieLUD-ixsZw) 
+
+- [EXP 6 ]( ) 
