@@ -21,3 +21,5 @@ https://www.tinkercad.com/things/0SWe1wmsMGf-exquisite-fyyran/editel?sharecode=9
 - [EXP 5 ](https://www.tinkercad.com/things/eBYuRmKIRN4-brave-habbi-tumelo/editel?sharecode=Wm1uEOxKc4q_9DzhQGEQap1X9giXR8x3ieLUD-ixsZw) 
 
 - [EXP 6 ](  )
+
+- [EXP 7 ]( https://www.tinkercad.com/things/fGonmPck91s-spectacular-inari/editel?sharecode=rU7_l17wpZG_Xjc1SosaEOyS0co7A93LLy6IPhY3waM )
